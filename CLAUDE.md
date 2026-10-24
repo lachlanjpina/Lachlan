@@ -63,7 +63,7 @@ Sections: **Today**, **This week**, **Waiting on others**, **Someday**, **Done
 
 ## Style
 
-- Dates as `YYYY-MM-DD`. Australian English spelling.
+- Dates as `YYYY-MM-DD`. Times in America/Chicago.
 - Drafts in Lachlan's voice: direct, warm, short. Match tone notes in
   `context/about-me.md`.
 - If something needs Lachlan's decision, put it under **Decisions needed** at

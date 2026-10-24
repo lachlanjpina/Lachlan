@@ -12,7 +12,7 @@
 - Career:
 
 ## How I work
-- Timezone:
+- Timezone: America/Chicago
 - Best focus hours:
 - Meetings I hate / love:
 - How I like information (bullets, one-liners, detail on request…):

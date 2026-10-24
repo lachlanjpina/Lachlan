@@ -36,7 +36,7 @@ The operating rules are in [`CLAUDE.md`](CLAUDE.md). The routines are skills in
    repo; with them it reads your calendar and email automatically.
 3. **Schedule it** — in a Claude Code session on this repo, ask:
    _"Schedule the daily brief for weekdays at 7:30am and the weekly review
-   Fridays at 3pm, my timezone is Australia/Sydney."_
+   Fridays at 3pm, my timezone is America/Chicago."_
 4. **Use it day to day:**
    - Drop notes into `inbox/` (GitHub mobile app works well).
    - Open a session and say "remind me to…", "prep me for my 2pm", or
